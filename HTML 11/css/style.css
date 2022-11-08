@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    background: url("../img/pattern.png") ;
+    font-family: arial;
+    line-height: 1.5;
+}
+.card {
+    width: 400px;
+    margin: 30px auto;
+    background-color: #b7c7e0;
+    box-shadow: 10px 10px 10px #ccc;
+}
+.card-photo {
+    display: block;
+    width: 200px;
+    height: 250px;
+    margin: 0 auto;
+    
+}
